@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Liza</h1>
+<h1 align="center"> Hello, I'm Liza</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="center">
@@ -21,19 +21,16 @@
 ## Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leezka&theme=react&hide_border=true&area=true&hide_title=true&height=300&color=9370DB&point=8A2BE2&line=DDA0DD&area_color=E6E6FA&bg_color=FFF0F5" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leezka&theme=react&hide_border=true&area=true&hide_title=true&height=300&color=9370DB&point=8A2BE2&line=DDA0DD&area_color=E6E6FA&bg_color=D8BFD8" 
        alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leezka&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=9370DB&text_color=8A2BE2&icon_color=DDA0DD&bg_color=FFF0F5" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Leezka&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=9370DB&text_color=8A2BE2&icon_color=DDA0DD&bg_color=D8BFD8" 
        alt="GitHub Stats" width="500"/>
 </p>
 
 ---
 
-## Contact Me
+## Contact Me <a href="mailto:leepatarushina@gmail.com"><img src="https://img.icons8.com/ios-filled/50/9370DB/new-post.png" width="25" alt="Email Icon"/></a>
 
-<p align="center">
-  <a href="mailto:leepatarushina@gmail.com"><img src="https://img.icons8.com/ios-filled/50/9370DB/new-post.png" width="35" alt="Email Icon"/> </a>
-</p>
