@@ -13,5 +13,5 @@
 ## Статистика активности
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leezka&theme=github&hide_border=true&area=true&hide_title=true&color=E6E6FA&point=D8BFD8&line=9370DB&area_color=E6E6FA&bg_color=FFF0F5" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/409BA5/Leezka" alt="Leezka's Github Chart" />
 </p>
