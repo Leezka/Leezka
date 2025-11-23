@@ -1,31 +1,14 @@
-<h1 align="center">Hi there, I'm Liza 👋</h1>
+<h1 align="center">Hi there, I'm Liza 🐱</h1>
+<h3 align="center">Computer science student</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" alt="cat at computer" width="250" />
-</p>
+## 📊 My GitHub Statistics:
 
-<h3 align="center">Computer Science Student</h3>
+| <img align="center" src="https://github-readme-stats.anuraghazra.vercel.app/api?username=Leezka&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Liza's github stats" /> | <img align="center" src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=Leezka&layout=compact&theme=radical&hide_border=true" /> |
+| ------------- | ------------- |
 
----
+## 🚀 About Me:
+Passionate computer science student exploring the world of programming and version control systems.
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🧰 Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-</p>
-
----
+## 📫 Connect with me:
+- 📧 **Email:** leepatarushina@gmail.com
+- 💻 **GitHub:** [Leezka](https://github.com/Leezka)
