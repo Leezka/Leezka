@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Liza</h1>
+<h1 align="center"> Hello, I'm Liza</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="center">
@@ -27,9 +27,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="120" alt="cute waving cat" />
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="120" alt="cat typing" />
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120" alt="happy cat" />
-</p>
 
