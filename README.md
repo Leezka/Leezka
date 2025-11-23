@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Liza</h1>
+<h1 align="center">👋 Hello, I'm Liza</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="center">
@@ -26,7 +26,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leezka&show_icons=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leezka&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=9370DB&text_color=8A2BE2&icon_color=DDA0DD&bg_color=FFF0F5" 
+       alt="GitHub Stats" width="500"/>
 </p>
 
 ---
@@ -34,6 +35,5 @@
 ## Contact Me
 
 <p align="center">
-  📧 <a href="mailto:leepatarushina@gmail.com">leepatarushina@gmail.com</a>
+  <a href="mailto:leepatarushina@gmail.com"><img src="https://img.icons8.com/ios-filled/50/9370DB/new-post.png" width="35" alt="Email Icon"/> </a>
 </p>
-
