@@ -13,5 +13,5 @@
 ## Статистика активности
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409BA5/Leezka" alt="Leezka's Github Chart" />
+  <img src="https://ghchart.rshah.org/FF6B6B/Leezka" alt="Leezka's Github Chart" />
 </p>
