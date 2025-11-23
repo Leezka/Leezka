@@ -2,14 +2,10 @@
 <h3 align="center">Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/8wYzGvX.gif" width="180" alt="cat pastel typing" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cat typing" />
 </p>
 
-<!-- Lavender Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Loreen-net/pixel-dividers/main/dividers/purple_lilac_divider_1.gif" width="75%" />
-</p>
-
+---
 
 ## Изучаемые языки
 
@@ -20,10 +16,7 @@
   <img src="https://img.shields.io/badge/linux-DDA0DD.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Loreen-net/pixel-dividers/main/dividers/purple_lilac_divider_1.gif" width="75%" />
-</p>
-
+---
 
 ## Статистика активности
 
@@ -32,19 +25,11 @@
        alt="Activity Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Loreen-net/pixel-dividers/main/dividers/purple_lilac_divider_1.gif" width="75%" />
-</p>
-
-
-## Статистика языков (на основе коммитов)
+---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leezka&theme=2077" 
-       alt="Commit-based Languages" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Loreen-net/pixel-dividers/main/dividers/purple_lilac_divider_1.gif" width="75%" />
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="120" alt="cute waving cat" />
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="120" alt="cat typing" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120" alt="happy cat" />
 </p>
 
