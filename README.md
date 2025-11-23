@@ -13,9 +13,5 @@
 ## Статистика активности
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leezka&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leezka&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leezka&theme=github&hide_border=true&area=true&hide_title=true&color=E6E6FA&point=D8BFD8&line=9370DB&area_color=E6E6FA&bg_color=FFF0F5" alt="Activity Graph" />
 </p>
