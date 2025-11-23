@@ -15,3 +15,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leezka&theme=react&hide_border=true&area=true&hide_title=true&height=300&color=9370DB&point=8A2BE2&line=DDA0DD&area_color=E6E6FA&bg_color=FFF0F5" alt="Activity Graph" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leezka&layout=pie&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=6A5ACD&text_color=4B0082&ring_color=9370DB&hide=html,css,scss,shell&custom_title=Top%20Languages%20by%20Commit" alt="Top Languages" />
+</p>
