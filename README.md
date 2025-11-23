@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Learning+new+things+every+day;Passionate+about+coding;Open+source+enthusiast" alt="Typing SVG" />
 </p>
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -17,21 +27,17 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## 💼 Currently Learning
 
-```python
-class Liza:
-    def __init__(self):
-        self.name = "Liza"
-        self.role = "Computer Science Student"
-        self.languages = ["Python", "Java", "C++", "SQL"]
-        self.tools = ["Git", "Linux", "VS Code", "Docker"]
-        self.interests = [
-            "Web Development",
-            "Data Structures",
-            "Algorithms", 
-            "Open Source"
-        ]
-    
-    def say_hello(self):
-        return "Thanks for visiting my profile! 🌟"
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Currently mastering:\n");
+    printf("• C Programming\n");
+    printf("• Python Development\n");
+    printf("• LaTeX Documentation\n");
+    printf("• Linux System Administration\n");
+    printf("• Git Version Control\n");
+    return 0;
+}
