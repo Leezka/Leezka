@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Liza</h1>
+<h1 align="center">👋 Hello, I'm Liza</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/c-8A2BE2.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/python-9370DB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/latex-7B68EE.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&labelColor=DDA0DD&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux-FFB6C1?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
 ---
@@ -33,4 +33,3 @@
 ---
 
 ## Contact Me <a href="mailto:leepatarushina@gmail.com"><img src="https://img.icons8.com/ios-filled/50/9370DB/new-post.png" width="25" alt="Email Icon"/></a>
-
