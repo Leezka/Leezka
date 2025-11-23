@@ -17,5 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leezka&layout=pie&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=6A5ACD&text_color=4B0082&ring_color=9370DB&hide=html,css,scss,shell&custom_title=Top%20Languages%20by%20Commit" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/Leezka?theme=light&font=Karma&ext=activity" alt="LeetCode Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leezka&show_icons=true&theme=radical&hide_border=true&bg_color=45,E6E6FA,D8BFD8&title_color=6A5ACD&icon_color=9370DB&text_color=4B0082" alt="Stats" width="45%" />
 </p>
