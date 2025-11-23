@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/c-8A2BE2.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/python-9370DB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/latex-7B68EE.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&labelColor=FF85B3&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/linux-DDA0DD.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
 ---
