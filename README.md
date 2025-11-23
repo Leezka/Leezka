@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/c-8A2BE2.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/python-9370DB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/latex-7B68EE.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Linux-D8BFD8?style=for-the-badge&logo=linux&logoColor=white&labelColor=D8BFD8" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=FF85B3" alt="Linux" />
 </p>
 
 ---
@@ -33,3 +33,4 @@
 ---
 
 ## Contact Me <a href="mailto:leepatarushina@gmail.com"><img src="https://img.icons8.com/ios-filled/50/9370DB/new-post.png" width="25" alt="Email Icon"/></a>
+
